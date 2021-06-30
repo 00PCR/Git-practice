@@ -1,5 +1,3 @@
-Read me!
-Please read me
-Read me like a book
-But like a paperback book
-not like an ebook/kindle fake book
+This is a different version of the readme.
+I think I will try to push it as a seperate branch?
+I frankly don't know  though...
