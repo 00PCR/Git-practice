@@ -2,3 +2,5 @@
 Branching is like time travel
 Execpt fun
 And real
+
+Yueh is editting this document for Git Practice!
